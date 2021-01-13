@@ -107,10 +107,10 @@
                 <tbody>
                                 <tr>
                                     <td style="text-align:center">
-                                            <input onclick="btnGetChildOfThis('2021MATH142701')"
+                                            <input onclick="btnGetChildOfThis('2021MATH144701')"
                                                    type="radio" name="group1"
                                                    class="classCheckChon"
-                                                   id="2021MATH142701$0.0$2021MATH1427$$0"
+                                                   id="2021MATH144701$0.0$2021MATH1447$$0"
                                                    
                                                    
                                                     />
@@ -126,18 +126,404 @@
                                         <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), THPT Bui Thi Xuan, Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
                                     </td>
                                 </tr>
-                                <tr>
+								
+								<tr>
                                     <td style="text-align:center">
-                                            <input onclick="btnGetChildOfThis('2021MATH142702')"
+                                            <input onclick="btnGetChildOfThis('2021MATH144702')"
                                                    type="radio" name="group1"
                                                    class="classCheckChon"
-                                                   id="2021MATH142702$0.0$2021MATH1427$$0"
+                                                   id="2021MATH144702$0.0$2021MATH1447$$0"
+                                                   
+                                                   
+                                                    />
+                                                                            </td>
+                                    <td style="text-align:center">L&#253; thuyết</td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144702</b></td>
+
+                                    <td class="hidden-xs" style="text-align:left"></td>
+                                    <td class="hidden-xs" style="text-align:center">10-20</td>
+                                    <td class="hidden-xs" style="text-align:center">7</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
+                                    <td style="text-align:left">
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), THPT Tran Dai Nghia Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
+                                    </td>
+                                </tr>
+								
+								<tr>
+                                    <td style="text-align:center">
+                                            <input onclick="btnGetChildOfThis('2021MATH144703')"
+                                                   type="radio" name="group1"
+                                                   class="classCheckChon"
+                                                   id="2021MATH144703$0.0$2021MATH1447$$0"
+                                                   
+                                                   
+                                                    />
+                                                                            </td>
+                                    <td style="text-align:center">L&#253; thuyết</td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144703</b></td>
+
+                                    <td class="hidden-xs" style="text-align:left"></td>
+                                    <td class="hidden-xs" style="text-align:center">10-20</td>
+                                    <td class="hidden-xs" style="text-align:center">7</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
+                                    <td style="text-align:left">
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), THPT Trung Vuong Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
+                                    </td>
+                                </tr>
+								<tr>
+                                    <td style="text-align:center">
+                                            <input onclick="btnGetChildOfThis('2021MATH144704')"
+                                                   type="radio" name="group1"
+                                                   class="classCheckChon"
+                                                   id="2021MATH144704$0.0$2021MATH1447$$0"
+                                                   
+                                                   
+                                                    />
+                                                                            </td>
+                                    <td style="text-align:center">L&#253; thuyết</td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144704</b></td>
+
+                                    <td class="hidden-xs" style="text-align:left"></td>
+                                    <td class="hidden-xs" style="text-align:center">10-20</td>
+                                    <td class="hidden-xs" style="text-align:center">7</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
+                                    <td style="text-align:left">
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), THPT Luong The Vinh Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
+                                    </td>
+                                </tr>
+								<tr>
+                                    <td style="text-align:center">
+                                            <input onclick="btnGetChildOfThis('2021MATH144705')"
+                                                   type="radio" name="group1"
+                                                   class="classCheckChon"
+                                                   id="2021MATH144705$0.0$2021MATH1447$$0"
+                                                   
+                                                   
+                                                    />
+                                                                            </td>
+                                    <td style="text-align:center">L&#253; thuyết</td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144705</b></td>
+
+                                    <td class="hidden-xs" style="text-align:left"></td>
+                                    <td class="hidden-xs" style="text-align:center">10-20</td>
+                                    <td class="hidden-xs" style="text-align:center">7</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
+                                    <td style="text-align:left">
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), THPT TeloMan Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
+                                    </td>
+                                </tr>
+								<tr>
+                                    <td style="text-align:center">
+                                            <input onclick="btnGetChildOfThis('2021MATH144706')"
+                                                   type="radio" name="group1"
+                                                   class="classCheckChon"
+                                                   id="2021MATH144706$0.0$2021MATH1447$$0"
+                                                   
+                                                   
+                                                    />
+                                                                            </td>
+                                    <td style="text-align:center">L&#253; thuyết</td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144706</b></td>
+
+                                    <td class="hidden-xs" style="text-align:left"></td>
+                                    <td class="hidden-xs" style="text-align:center">10-20</td>
+                                    <td class="hidden-xs" style="text-align:center">7</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
+                                    <td style="text-align:left">
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), THPT Marie Curie Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
+                                    </td>
+                                </tr>
+								<tr>
+                                    <td style="text-align:center">
+                                            <input onclick="btnGetChildOfThis('2021MATH144707')"
+                                                   type="radio" name="group1"
+                                                   class="classCheckChon"
+                                                   id="2021MATH144707$0.0$2021MATH1447$$0"
+                                                   
+                                                   
+                                                    />
+                                                                            </td>
+                                    <td style="text-align:center">L&#253; thuyết</td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144707</b></td>
+
+                                    <td class="hidden-xs" style="text-align:left"></td>
+                                    <td class="hidden-xs" style="text-align:center">10-20</td>
+                                    <td class="hidden-xs" style="text-align:center">7</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
+                                    <td style="text-align:left">
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), THPT Le Quy Dong Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
+                                    </td>
+                                </tr>
+								<tr>
+                                    <td style="text-align:center">
+                                            <input onclick="btnGetChildOfThis('2021MATH144708')"
+                                                   type="radio" name="group1"
+                                                   class="classCheckChon"
+                                                   id="2021MATH144708$0.0$2021MATH1447$$0"
+                                                   
+                                                   
+                                                    />
+                                                                            </td>
+                                    <td style="text-align:center">L&#253; thuyết</td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144708</b></td>
+
+                                    <td class="hidden-xs" style="text-align:left"></td>
+                                    <td class="hidden-xs" style="text-align:center">10-20</td>
+                                    <td class="hidden-xs" style="text-align:center">7</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
+                                    <td style="text-align:left">
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), THPT Nguyen Trai Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
+                                    </td>
+                                </tr>
+								<tr>
+                                    <td style="text-align:center">
+                                            <input onclick="btnGetChildOfThis('2021MATH144709')"
+                                                   type="radio" name="group1"
+                                                   class="classCheckChon"
+                                                   id="2021MATH144709$0.0$2021MATH1447$$0"
+                                                   
+                                                   
+                                                    />
+                                                                            </td>
+                                    <td style="text-align:center">L&#253; thuyết</td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144709</b></td>
+
+                                    <td class="hidden-xs" style="text-align:left"></td>
+                                    <td class="hidden-xs" style="text-align:center">10-20</td>
+                                    <td class="hidden-xs" style="text-align:center">7</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
+                                    <td style="text-align:left">
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), THPT Tran Khai Nguyen Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
+                                    </td>
+                                </tr>
+								<tr>
+                                    <td style="text-align:center">
+                                            <input onclick="btnGetChildOfThis('2021MATH144710')"
+                                                   type="radio" name="group1"
+                                                   class="classCheckChon"
+                                                   id="2021MATH144710$0.0$2021MATH1447$$0"
+                                                   
+                                                   
+                                                    />
+                                                                            </td>
+                                    <td style="text-align:center">L&#253; thuyết</td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144710</b></td>
+
+                                    <td class="hidden-xs" style="text-align:left"></td>
+                                    <td class="hidden-xs" style="text-align:center">10-20</td>
+                                    <td class="hidden-xs" style="text-align:center">7</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
+                                    <td style="text-align:left">
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), THPT Chuyen Le Hong Phong Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
+                                    </td>
+                                </tr>
+								<tr>
+                                    <td style="text-align:center">
+                                            <input onclick="btnGetChildOfThis('2021MATH144711')"
+                                                   type="radio" name="group1"
+                                                   class="classCheckChon"
+                                                   id="2021MATH144711$0.0$2021MATH1447$$0"
+                                                   
+                                                   
+                                                    />
+                                                                            </td>
+                                    <td style="text-align:center">L&#253; thuyết</td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144711</b></td>
+
+                                    <td class="hidden-xs" style="text-align:left"></td>
+                                    <td class="hidden-xs" style="text-align:center">10-20</td>
+                                    <td class="hidden-xs" style="text-align:center">7</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
+                                    <td style="text-align:left">
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), THPT Hung Vuong Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
+                                    </td>
+                                </tr>
+								<tr>
+                                    <td style="text-align:center">
+                                            <input onclick="btnGetChildOfThis('2021MATH144712')"
+                                                   type="radio" name="group1"
+                                                   class="classCheckChon"
+                                                   id="2021MATH144712$0.0$2021MATH1447$$0"
+                                                   
+                                                   
+                                                    />
+                                                                            </td>
+                                    <td style="text-align:center">L&#253; thuyết</td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144712</b></td>
+
+                                    <td class="hidden-xs" style="text-align:left"></td>
+                                    <td class="hidden-xs" style="text-align:center">10-20</td>
+                                    <td class="hidden-xs" style="text-align:center">7</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
+                                    <td style="text-align:left">
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), THPT Nguyen Thi Minh Khai Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
+                                    </td>
+                                </tr>
+								<tr>
+                                    <td style="text-align:center">
+                                            <input onclick="btnGetChildOfThis('2021MATH144713')"
+                                                   type="radio" name="group1"
+                                                   class="classCheckChon"
+                                                   id="2021MATH144713$0.0$2021MATH1447$$0"
+                                                   
+                                                   
+                                                    />
+                                                                            </td>
+                                    <td style="text-align:center">L&#253; thuyết</td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144713</b></td>
+
+                                    <td class="hidden-xs" style="text-align:left"></td>
+                                    <td class="hidden-xs" style="text-align:center">10-20</td>
+                                    <td class="hidden-xs" style="text-align:center">7</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
+                                    <td style="text-align:left">
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), THPT Mac Dinh Chi Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
+                                    </td>
+                                </tr>
+								<tr>
+                                    <td style="text-align:center">
+                                            <input onclick="btnGetChildOfThis('2021MATH144714')"
+                                                   type="radio" name="group1"
+                                                   class="classCheckChon"
+                                                   id="2021MATH144714$0.0$2021MATH1447$$0"
+                                                   
+                                                   
+                                                    />
+                                                                            </td>
+                                    <td style="text-align:center">L&#253; thuyết</td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144714</b></td>
+
+                                    <td class="hidden-xs" style="text-align:left"></td>
+                                    <td class="hidden-xs" style="text-align:center">10-20</td>
+                                    <td class="hidden-xs" style="text-align:center">7</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
+                                    <td style="text-align:left">
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), THPT Binh Phu Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
+                                    </td>
+                                </tr>
+								<tr>
+                                    <td style="text-align:center">
+                                            <input onclick="btnGetChildOfThis('2021MATH144715')"
+                                                   type="radio" name="group1"
+                                                   class="classCheckChon"
+                                                   id="2021MATH144715$0.0$2021MATH1447$$0"
+                                                   
+                                                   
+                                                    />
+                                                                            </td>
+                                    <td style="text-align:center">L&#253; thuyết</td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144715</b></td>
+
+                                    <td class="hidden-xs" style="text-align:left"></td>
+                                    <td class="hidden-xs" style="text-align:center">10-20</td>
+                                    <td class="hidden-xs" style="text-align:center">7</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
+                                    <td style="text-align:left">
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), THPT Le Thanh Ton Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
+                                    </td>
+                                </tr>
+								<tr>
+                                    <td style="text-align:center">
+                                            <input onclick="btnGetChildOfThis('2021MATH144716')"
+                                                   type="radio" name="group1"
+                                                   class="classCheckChon"
+                                                   id="2021MATH144716$0.0$2021MATH1447$$0"
+                                                   
+                                                   
+                                                    />
+                                                                            </td>
+                                    <td style="text-align:center">L&#253; thuyết</td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144716</b></td>
+
+                                    <td class="hidden-xs" style="text-align:left"></td>
+                                    <td class="hidden-xs" style="text-align:center">10-20</td>
+                                    <td class="hidden-xs" style="text-align:center">7</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
+                                    <td style="text-align:left">
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), THPT Luong Van Can Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
+                                    </td>
+                                </tr>
+								<tr>
+                                    <td style="text-align:center">
+                                            <input onclick="btnGetChildOfThis('2021MATH144717')"
+                                                   type="radio" name="group1"
+                                                   class="classCheckChon"
+                                                   id="2021MATH144717$0.0$2021MATH1447$$0"
+                                                   
+                                                   
+                                                    />
+                                                                            </td>
+                                    <td style="text-align:center">L&#253; thuyết</td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144717</b></td>
+
+                                    <td class="hidden-xs" style="text-align:left"></td>
+                                    <td class="hidden-xs" style="text-align:center">10-20</td>
+                                    <td class="hidden-xs" style="text-align:center">7</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
+                                    <td style="text-align:left">
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), THPT Nguyen Thi Dinh Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
+                                    </td>
+                                </tr>
+								
+								
+								
+								
+                                <tr>
+                                    <td style="text-align:center">
+                                            <input onclick="btnGetChildOfThis('2021MATH144718')"
+                                                   type="radio" name="group1"
+                                                   class="classCheckChon"
+                                                   id="2021MATH144718$0.0$2021MATH1427$$0"
                                                    
                                                    
                                                    disabled />
                                                                             </td>
                                     <td style="text-align:center">L&#253; thuyết</td>
-                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144702</b></td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144718</b></td>
+
+                                    <td class="hidden-xs" style="text-align:left"></td>
+                                    <td class="hidden-xs" style="text-align:center">10-20</td>
+                                    <td class="hidden-xs" style="text-align:center">20</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
+                                    <td style="text-align:left">
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), THPT Nguyen Khuyen, Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                <tr>
+                                    <td style="text-align:center">
+                                            <input onclick="btnGetChildOfThis('2021MATH144719')"
+                                                   type="radio" name="group1"
+                                                   class="classCheckChon"
+                                                   id="2021MATH144719$0.0$2021MATH1427$$0"
+                                                   
+                                                   
+                                                   disabled />
+                                                                            </td>
+                                    <td style="text-align:center">L&#253; thuyết</td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144719</b></td>
+
+                                    <td class="hidden-xs" style="text-align:left"></td>
+                                    <td class="hidden-xs" style="text-align:center">10-20</td>
+                                    <td class="hidden-xs" style="text-align:center">20</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
+                                    <td style="text-align:left">
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), THPT Gia Dinh, Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
+                                    </td>
+                                </tr>
+                                <tr>
+								<tr>
+                                    <td style="text-align:center">
+                                            <input onclick="btnGetChildOfThis('2021MATH144720')"
+                                                   type="radio" name="group1"
+                                                   class="classCheckChon"
+                                                   id="2021MATH144720$0.0$2021MATH1427$$0"
+                                                   
+                                                   
+                                                   disabled />
+                                                                            </td>
+                                    <td style="text-align:center">L&#253; thuyết</td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144720</b></td>
 
                                     <td class="hidden-xs" style="text-align:left"></td>
                                     <td class="hidden-xs" style="text-align:center">10-20</td>
@@ -148,89 +534,183 @@
                                     </td>
                                 </tr>
                                 <tr>
+								<tr>
                                     <td style="text-align:center">
-                                            <input onclick="btnGetChildOfThis('2021MATH142703')"
+                                            <input onclick="btnGetChildOfThis('2021MATH144721')"
                                                    type="radio" name="group1"
                                                    class="classCheckChon"
-                                                   id="2021MATH142703$0.0$2021MATH1427$$0"
+                                                   id="2021MATH144721$0.0$2021MATH1427$$0"
                                                    
                                                    
                                                    disabled />
                                                                             </td>
                                     <td style="text-align:center">L&#253; thuyết</td>
-                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH142703</b></td>
-
-                                    <td class="hidden-xs" style="text-align:left"></td>
-                                    <td class="hidden-xs" style="text-align:center">10-20</td>
-                                    <td class="hidden-xs" style="text-align:center">21</td>
-                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
-                                    <td style="text-align:left">
-                                        <div class="td-schedule"> Thứ Năm, Tiết(8 - 12), B.104, 280 An Dương Vương, Q.5<br/> (01/04/2021 -> 20/05/2021)<br/> </div>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td style="text-align:center">
-                                            <input onclick="btnGetChildOfThis('2021MATH142704')"
-                                                   type="radio" name="group1"
-                                                   class="classCheckChon"
-                                                   id="2021MATH142704$0.0$2021MATH1427$$0"
-                                                   
-                                                   
-                                                   disabled />
-                                                                            </td>
-                                    <td style="text-align:center">L&#253; thuyết</td>
-                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH142704</b></td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144721</b></td>
 
                                     <td class="hidden-xs" style="text-align:left"></td>
                                     <td class="hidden-xs" style="text-align:center">10-20</td>
                                     <td class="hidden-xs" style="text-align:center">20</td>
                                     <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
                                     <td style="text-align:left">
-                                        <div class="td-schedule"> Thứ Sáu, Tiết(8 - 12), B.104, 280 An Dương Vương, Q.5<br/> (02/04/2021 -> 21/05/2021)<br/> </div>
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), THPT Nguyen Thai Binh, Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
                                     </td>
                                 </tr>
                                 <tr>
+								<tr>
                                     <td style="text-align:center">
-                                            <input onclick="btnGetChildOfThis('2021MATH142705')"
+                                            <input onclick="btnGetChildOfThis('2021MATH144722')"
                                                    type="radio" name="group1"
                                                    class="classCheckChon"
-                                                   id="2021MATH142705$0.0$2021MATH1427$$0"
+                                                   id="2021MATH144722$0.0$2021MATH1427$$0"
                                                    
                                                    
                                                    disabled />
                                                                             </td>
                                     <td style="text-align:center">L&#253; thuyết</td>
-                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH142705</b></td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144722</b></td>
 
                                     <td class="hidden-xs" style="text-align:left"></td>
                                     <td class="hidden-xs" style="text-align:center">10-20</td>
                                     <td class="hidden-xs" style="text-align:center">20</td>
-                                    <td style="text-align:center"> Ng&#244; Minh Đức</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
                                     <td style="text-align:left">
-                                        <div class="td-schedule"> Thứ Ba, Tiết(2 - 6), C.712, 280 An Dương Vương, Q.5<br/> (30/03/2021 -> 18/05/2021)<br/> </div>
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), THPT Nguyen Thuong Hien, Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
                                     </td>
                                 </tr>
                                 <tr>
+								<tr>
                                     <td style="text-align:center">
-                                            <input onclick="btnGetChildOfThis('2021MATH142706')"
+                                            <input onclick="btnGetChildOfThis('2021MATH144723')"
                                                    type="radio" name="group1"
                                                    class="classCheckChon"
-                                                   id="2021MATH142706$0.0$2021MATH1427$$0"
+                                                   id="2021MATH144723$0.0$2021MATH1427$$0"
                                                    
                                                    
                                                    disabled />
                                                                             </td>
                                     <td style="text-align:center">L&#253; thuyết</td>
-                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH142706</b></td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144723</b></td>
 
                                     <td class="hidden-xs" style="text-align:left"></td>
                                     <td class="hidden-xs" style="text-align:center">10-20</td>
-                                    <td class="hidden-xs" style="text-align:center">21</td>
-                                    <td style="text-align:center"> Ng&#244; Minh Đức</td>
+                                    <td class="hidden-xs" style="text-align:center">20</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
                                     <td style="text-align:left">
-                                        <div class="td-schedule"> Thứ Ba, Tiết(8 - 12), C.706, 280 An Dương Vương, Q.5<br/> (30/03/2021 -> 18/05/2021)<br/> </div>
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), THPT Nguyen Chi Thanh, Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
                                     </td>
                                 </tr>
+                                <tr>
+								<tr>
+                                    <td style="text-align:center">
+                                            <input onclick="btnGetChildOfThis('2021MATH144724')"
+                                                   type="radio" name="group1"
+                                                   class="classCheckChon"
+                                                   id="2021MATH144724$0.0$2021MATH1427$$0"
+                                                   
+                                                   
+                                                   disabled />
+                                                                            </td>
+                                    <td style="text-align:center">L&#253; thuyết</td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144724</b></td>
+
+                                    <td class="hidden-xs" style="text-align:left"></td>
+                                    <td class="hidden-xs" style="text-align:center">10-20</td>
+                                    <td class="hidden-xs" style="text-align:center">20</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
+                                    <td style="text-align:left">
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), THPT Tran Phu, Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
+                                    </td>
+                                </tr>
+                                <tr>
+								<tr>
+                                    <td style="text-align:center">
+                                            <input onclick="btnGetChildOfThis('2021MATH144725')"
+                                                   type="radio" name="group1"
+                                                   class="classCheckChon"
+                                                   id="2021MATH144725$0.0$2021MATH1427$$0"
+                                                   
+                                                   
+                                                   disabled />
+                                                                            </td>
+                                    <td style="text-align:center">L&#253; thuyết</td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144725</b></td>
+
+                                    <td class="hidden-xs" style="text-align:left"></td>
+                                    <td class="hidden-xs" style="text-align:center">10-20</td>
+                                    <td class="hidden-xs" style="text-align:center">20</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
+                                    <td style="text-align:left">
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), ThucTapTuDo, Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
+                                    </td>
+                                </tr>
+                                <tr>
+								<tr>
+                                    <td style="text-align:center">
+                                            <input onclick="btnGetChildOfThis('2021MATH144726')"
+                                                   type="radio" name="group1"
+                                                   class="classCheckChon"
+                                                   id="2021MATH144726$0.0$2021MATH1427$$0"
+                                                   
+                                                   
+                                                   disabled />
+                                                                            </td>
+                                    <td style="text-align:center">L&#253; thuyết</td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144726</b></td>
+
+                                    <td class="hidden-xs" style="text-align:left"></td>
+                                    <td class="hidden-xs" style="text-align:center">10-20</td>
+                                    <td class="hidden-xs" style="text-align:center">20</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
+                                    <td style="text-align:left">
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), Trường Test 3, Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
+                                    </td>
+                                </tr>
+                                <tr>
+								<tr>
+                                    <td style="text-align:center">
+                                            <input onclick="btnGetChildOfThis('2021MATH144727')"
+                                                   type="radio" name="group1"
+                                                   class="classCheckChon"
+                                                   id="2021MATH144727$0.0$2021MATH1427$$0"
+                                                   
+                                                   
+                                                   disabled />
+                                                                            </td>
+                                    <td style="text-align:center">L&#253; thuyết</td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144727</b></td>
+
+                                    <td class="hidden-xs" style="text-align:left"></td>
+                                    <td class="hidden-xs" style="text-align:center">10-20</td>
+                                    <td class="hidden-xs" style="text-align:center">20</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
+                                    <td style="text-align:left">
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), Trường Test 2, Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
+                                    </td>
+                                </tr>
+                                <tr>
+								<tr>
+                                    <td style="text-align:center">
+                                            <input onclick="btnGetChildOfThis('2021MATH144728')"
+                                                   type="radio" name="group1"
+                                                   class="classCheckChon"
+                                                   id="2021MATH144728$0.0$2021MATH1427$$0"
+                                                   
+                                                   
+                                                   disabled />
+                                                                            </td>
+                                    <td style="text-align:center">L&#253; thuyết</td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144728</b></td>
+
+                                    <td class="hidden-xs" style="text-align:left"></td>
+                                    <td class="hidden-xs" style="text-align:center">10-20</td>
+                                    <td class="hidden-xs" style="text-align:center">20</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
+                                    <td style="text-align:left">
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), Trường Test, Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
+                                    </td>
+                                </tr>
+                                <tr>
+								
 
                 </tbody>
             </table>
