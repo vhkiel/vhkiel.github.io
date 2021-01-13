@@ -126,6 +126,27 @@
                                         <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), THPT Bui Thi Xuan, Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
                                     </td>
                                 </tr>
+				<tr>
+                                    <td style="text-align:center">
+                                            <input onclick="btnGetChildOfThis('2021MATH144700')"
+                                                   type="radio" name="group1"
+                                                   class="classCheckChon"
+                                                   id="2021MATH144700$0.0$2021MATH1447$$0"
+                                                   
+                                                   
+                                                    />
+                                                                            </td>
+                                    <td style="text-align:center">L&#253; thuyết</td>
+                                    <td class="hidden-xs" style="text-align:center"><b>2021MATH144700</b></td>
+
+                                    <td class="hidden-xs" style="text-align:left"></td>
+                                    <td class="hidden-xs" style="text-align:center">10-20</td>
+                                    <td class="hidden-xs" style="text-align:center">7</td>
+                                    <td style="text-align:center"> L&#234; Thị Ho&#224;i Ch&#226;u</td>
+                                    <td style="text-align:left">
+                                        <div class="td-schedule"> Thứ Hai, Tiết(1 - 10), THPT Bui Thi Xuan, Q.P, (ngoài trường)<br/> (31/03/2021 -> 19/05/2021)<br/> </div>
+                                    </td>
+                                </tr>
 								
 								<tr>
                                     <td style="text-align:center">
